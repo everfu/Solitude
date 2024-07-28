@@ -34,7 +34,7 @@
     "hexo-renderer-pug": "^3.0.0",
     "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^3.0.0",
-    "hexo-theme-solitude": "^2.0.3",
+    "hexo-theme-solitude": "^2.0.4",
     "hexo-util": "^3.3.0",
     "hexo-wordcount": "^6.0.1",
     "moment": "^2.30.1"
