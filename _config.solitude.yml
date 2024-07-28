@@ -250,6 +250,7 @@ post:
       name: More
       url: /about/
 
+# Custom Theme Color
 theme_color:
   dark: "#8f4dcc" # Dark mode
   dark_op: "#f2b94b23" # Dark mode transparent
@@ -382,11 +383,11 @@ pwa:
   favicon_32_32: /img/pwa/favicon_32.ico # 32x32图标
   favicon_16_16: /img/pwa/favicon_16.ico # 16x16图标
 
-background:
-  enable: true
-  opacity: .2
-  dark: https://i.pinimg.com/originals/d8/b3/9d/d8b39d12b653810db452c437211aeb2e.png
-  light: https://i.pinimg.com/originals/93/57/38/935738ed9657b296c2ef0ebd2151eb66.jpg
+#background:
+#  enable: true
+#  opacity: .2
+#  dark: https://i.pinimg.com/originals/d8/b3/9d/d8b39d12b653810db452c437211aeb2e.png
+#  light: https://i.pinimg.com/originals/93/57/38/935738ed9657b296c2ef0ebd2151eb66.jpg
 
 right_menu:
   enable: true
