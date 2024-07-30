@@ -11,7 +11,7 @@ recommend: true
 update: 2024-03-28 08:00:00
 ---
 
-{% note success simple no-icon %}
+{% note 'success simple' %}
 Before we begin: Starting from version 1.8.10, the theme will no longer include the Friends Link Pond. If you want to use it, please add it manually.
 
 This tutorial uses the Friends Link Pond style of Hexo.
