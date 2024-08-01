@@ -39,27 +39,28 @@ hometop:
     # tip: 76x76 size
     icon:
       HTML: # 名字 / Name
-        img: https://i.postimg.cc/vBWVnY8q/html.png # 图片 / Image
-        color: "#e9572b" # 背景色 / Background color
+        img: https://skillicons.dev/icons?i=html # 图片 / Image
+        color: "#E14E1D" # 背景色 / Background color
       JS:
-        img: https://i.postimg.cc/3N10Ltv2/js.png
-        color: "#f7cb4f"
+        img: https://skillicons.dev/icons?i=js
+        color: "#F0DB50"
       Docker:
-        img: https://i.postimg.cc/8Pk6Fg24/docker.png
-        color: "#57b6e6"
+        img: https://skillicons.dev/icons?i=docker
+        color: "#2496EE"
       Flutter:
-        img: https://i.postimg.cc/hPC7T3gB/flutter.png
-        color: "#ffffff"
+        img: https://skillicons.dev/icons?i=flutter
+        color: "#252938"
       WebPack:
-        img: https://i.postimg.cc/dVLZBmtT/webpack.png
-        color: "#2e3a41"
+        img: https://skillicons.dev/icons?i=webpack
+        color: "#252938"
       Git:
-        img: https://i.postimg.cc/nhgjwjCS/git.png
-        color: "#df5b40"
+        img: https://skillicons.dev/icons?i=git
+        color: "#F13C2E"
 
   # 左下跳转按钮
   # Banner lower left jump button
   group:
+    Course: /categories/Course/ || fas fa-book || linear-gradient(to right,#358bff,#15c6ff)
 
   # 右侧置顶列表（在文章的front matter中添加“recommend: true”）
   # Right top list (add "recommend: true" in the front matter of the article)
